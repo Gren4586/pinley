@@ -3,10 +3,10 @@
     Chapter case
 
     Tinley Xeriscapes
-    Author: 
-    Date:   
+    Author: Damien Aldridge / Gren
+    Date: 2/22/2024
 
-    Filename: js01b.js
+    Filename: main.js
 */
 
 //define variables containing plant filenames
